@@ -1,0 +1,29 @@
+{
+  "symbol": "CC",
+  "address": "0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f",
+  "overview":{
+    "en": "CC is the token that empowers the CCSwap ecosystem. CCSwap is a decentralized AMM compound trading protocol with built-in loaning and trade mining support. In addition to the conventional swap function, CCSwap also integrates features including on-chain perpetual contract trading, on-chain options trading, etc.",
+    "zh": "CC是为CCSwap生态系统赋能的代币。CCSwap是一个自带借贷和交易挖矿功能的去中心化AMM复合交易协议，除了现货交易以外，CCSwap还提供基于AMM的永续合约交易以及期权交易功能。"
+  },
+  "email": "support@ccswap.org",
+  "website": "https://ccswap.org/",
+  "whitepaper": "https://ccswap.org/Introducing_CC_-_a_token_migrating_CEX_to_DEX_compressed.pdf",
+  "state": "NORMAL",
+  "published_on": "2021-04-27",
+  "initial_price":{
+    "ETH":"0.0004 ETH",
+    "USD":"1 USD",
+    "BTC":"0.00001833 BTC"
+  },
+  "links": {
+    "blog": "",
+    "twitter": "https://twitter.com/ccswap_io",
+    "telegram": "https://t.me/ccswapofficial",
+    "github": "https://github.com/ccswap/ccswap-contracts",
+    "facebook": "",
+    "reddit": "https://www.reddit.com/r/CCswap/",
+    "slack": "",
+    "discord": "https://discord.gg/nGTQKcejFQ",
+    "medium": "https://ccswap.medium.com"
+  }
+}
